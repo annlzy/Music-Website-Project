@@ -1,0 +1,124 @@
+﻿
+
+    body {
+        background: #FFFFFF;
+    }
+
+    body .header {
+        background: #f0f8ff;
+    }
+
+    body #colormode {
+        color: black;
+    }
+
+    body .dropdown a {
+        color: black;
+    }
+
+    body .mysidebar {
+        background: #f0f8ff;
+    }
+
+    body .mysidebar a {
+        color: black;
+    }
+
+    body .card {
+        padding-top: 15px;
+    }
+
+    body h6 {
+        color: #292929;
+    }
+
+    body footer {
+        margin-left: -12px;
+        margin-right: -12px;
+    }
+
+    body footer a {
+        color: #757575;
+    }
+
+    body footer span {
+        color: #757575;
+    }
+    body .music-player{
+        background: #f8cece;
+    }
+    .cursor {
+        cursor: context-menu;
+    }
+/*dark mode*/
+
+    body.dark {
+        background: #000;
+        color: #FFFFFF;
+    }
+
+    body.dark .header {
+        background: #1A1A1A;
+    }
+
+    body.dark #logo {
+        color: #FFFFFF;
+    }
+
+    body.dark .mysidebar {
+        background: #1A1A1A;
+    }
+
+    body.dark .mysidebar a i {
+        color: #FFFFFF;
+    }
+
+    body.dark .mysidebar .nav-link {
+        color: #FFFFFF;
+    }
+
+    body.dark #colormode {
+        color: white;
+    }
+
+    body.dark .dropdown-menu {
+        background: #9E9E9E;
+    }
+
+    body.dark .dropdown > a {
+        color: white;
+    }
+
+    body.dark .card {
+        padding-top: 15px;
+        background: #292929;
+    }
+
+    body.dark h6 {
+        color: #c7c7c7;
+    }
+    body.dark .stt {
+        color: white;
+    }
+    body.dark footer {
+        background: #2B2B2B;
+    }
+
+    body.dark footer a {
+        color: #D1D1D1;
+    }
+
+    body.dark footer span {
+        color: #D1D1D1;
+        }
+
+    body.dark .col-6 {
+        background: #292929;
+    }
+
+    body.dark .top-albums {
+        background: #292929;
+    }
+    body.dark .music-player{
+        background: #7a7a7a;
+    }
